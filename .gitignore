@@ -1,0 +1,5 @@
+# ignoring kdevelop files
+*.kdev4
+
+# ignoring bild directory with out of source built
+build/
